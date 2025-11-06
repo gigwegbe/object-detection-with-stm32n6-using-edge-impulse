@@ -1,0 +1,1 @@
+# object detection with stm32n6 using Edge Impulse
