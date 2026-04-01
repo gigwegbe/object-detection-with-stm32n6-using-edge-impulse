@@ -1,7 +1,8 @@
 # Real-Time Fruit Detection on the STM32N6 with Edge Impulse
 
 This project demonstrates real-time fruit detection (orange & avocado) running entirely on the STM32N6570-DK — no Linux, no cloud. It uses a YOLO-Pro Pico model trained in Edge Impulse Studio and deployed via ST Neural-ART's relocatable mode, which separates the model weights from the application firmware so you can swap models without reflashing the entire board.
-[Cover image](./asset/realtime-deployment.jpg)
+
+![Cover image](./asset/realtime-deployment.jpg)
 
 ## Hardware & Software
 
